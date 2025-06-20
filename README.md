@@ -9,4 +9,4 @@
 
 SQL | Python | R | Git | QuickSight | Tableau | PowerBI
 
-🔗[LinkedIn](https://www.linkedin.com/in/liangyu-allen-hou/) | [Email Me](allenhou369@gmail.com)
+🔗[LinkedIn](https://www.linkedin.com/in/liangyu-allen-hou/) | [Email Me](mailto:allenhou369@gmail.com)
